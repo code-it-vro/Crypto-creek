@@ -1,70 +1,29 @@
-# Getting Started with Create React App
+# Crypto Creek: Your Gateway to Crypto Trading and Coin Insights
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to Crypto Creek, your ultimate destination for exploring the world of cryptocurrencies and trading platforms. This React app serves as your comprehensive guide to the crypto landscape, offering a wide spectrum of trading platforms and detailed insights into various crypto coins.
 
-## Available Scripts
+# Link to the website 
+**Link** - https://crypto-creek.netlify.app/
 
-In the project directory, you can run:
+# Features
 
-### `npm start`
+ **Exchange Section :** Dive into a curated selection of top-tier trading platforms, providing you with a comprehensive overview of the crypto market's finest exchange options. Stay informed about the latest trading trends to make informed decisions.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+**Coin Section:** Immerse yourself in an extensive array of cryptocurrency coins, each with its dedicated page offering a thorough exploration of the coin's market performance, historical data, and real-time price updates.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+**Interactive Price Charts:** Harness the power of visual analytics with interactive price charts powered by Chart.js. Gain insights into a coin's price trends, historical fluctuations, and correlations with other assets.
 
-### `npm test`
+**Market Capitalization:** Grasp the market positioning of each coin with precise market capitalization data. Detect potential opportunities by tracking changes in market capitalization over time.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+# Technology Stack
 
-### `npm run build`
+**React:** A dynamic JavaScript library for crafting intuitive user interfaces. Utilized extensively throughout Crypto Creek to create a seamless and responsive user experience.
+Leveraged React hooks like **useState** and **useEffect** to manage component state and side effects efficiently.
+Created custom hooks to encapsulate and reuse logic, enhancing code modularity.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+**Chakra UI:** The latest Chakra UI framework was chosen for styling Crypto Creek. Its sleek design and easy-to-use components contribute to a modern and visually appealing interface.
+Employed Chakra UI's responsive layout and versatile components to ensure a consistent look across different devices and screen sizes.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+**Chart.js:** Empowered the app with interactive and captivating data visualizations through Chart.js. This library facilitated the creation of informative and engaging price charts for crypto coins.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Utilized Chart.js's dynamic chart generation capabilities to display historical price trends, enabling users to make informed decisions.
